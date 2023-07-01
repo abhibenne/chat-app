@@ -28,7 +28,7 @@
         "firebase/php-jwt": "^6.4",
         "monolog/monolog": "^3.3",
         "ocramius/proxy-manager": "^1.0",
-        "php-di/php-di": "^7.0.2",
+        "php-di/php-di": "^7.0.3",
         "slim/psr7": "^1.5",
         "slim/slim": "^4.0"
     },
