@@ -25,7 +25,7 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "ext-pdo_sqlite": "*",
-        "firebase/php-jwt": "^6.4",
+        "firebase/php-jwt": "^6.8",
         "monolog/monolog": "^3.3",
         "ocramius/proxy-manager": "^1.0",
         "php-di/php-di": "^7.0.2",
